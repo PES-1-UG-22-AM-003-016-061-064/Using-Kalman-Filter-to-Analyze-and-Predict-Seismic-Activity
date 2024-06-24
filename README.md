@@ -29,7 +29,7 @@ Develop and implement a Kalman filter-based model for analyzing real-time seismi
 | Utilizing Extended Kalman Filter / Ensemble Kalman Filter or better models | To be done   |
 
 ### Code and Results
-- [Project Notebook]([https://colab.research.google.com/drive/1ZazSblayJ8ZajuvOaV7RY6GlDWxezysN?usp=drive_link](https://colab.research.google.com/drive/15-3mdSHbNlLIu7lZiCjKXBfbFin-bJGc))
+- [Project Notebook](https://colab.research.google.com/drive/15-3mdSHbNlLIu7lZiCjKXBfbFin-bJGc)
 
 ### Completed Work
 | Component                                    | Completion | Runs without problem | Issues         |
