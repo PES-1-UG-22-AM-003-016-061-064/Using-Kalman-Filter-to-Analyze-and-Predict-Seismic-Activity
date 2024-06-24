@@ -15,7 +15,8 @@ Develop and implement a Kalman filter-based model for analyzing real-time seismi
 - [IRIS Data Services](https://service.iris.edu/fdsnws/dataselect/docs/1/builder/)
 - [USGS Earthquake Data](https://earthquake.usgs.gov/fdsnws/event/1/)
 
-
+### Approach
+![![mml](https://github.com/viridi-5/Kalman-filter-to-predict-seimic-activity-/assets/113525455/5383fc26-3681-4dba-9b79-536cd5451c07)]
 
 ### Progress
 | Task                                                       | Status                |
