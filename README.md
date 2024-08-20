@@ -59,7 +59,7 @@ Develop and implement a Kalman filter-based model for analyzing real-time seismi
 
 ### Key Learnings
 1. Using Kalman filter to generate a time sequential series from irregular earthquake data.
-2. Working with live data streams.
+2. Working with live data stream(s).
 3. Combining multiple data sources and analyzing outcomes.
 4. Utilizing ARIMA models alongside Kalman filters for future predictions.
 
