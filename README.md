@@ -18,7 +18,6 @@ Develop and implement a Kalman filter-based model for analyzing real-time seismi
 ### Approach
 ![mml](https://github.com/viridi-5/Kalman-filter-to-predict-seimic-activity-/assets/113525455/58b4f8bf-0e89-464d-881d-29a4515181d3)
 
-
 ### Progress
 | Task                                                       | Status                |
 |------------------------------------------------------------|-----------------------|
